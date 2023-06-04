@@ -1,3 +1,5 @@
+package gettersetter;
+
 public class Product {
     double price;
     int quantity;

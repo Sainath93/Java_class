@@ -1,9 +1,11 @@
+package Abstract;
+
 public class ChildDepartment extends Department{
 
 
     @Override
     public void getDepartmenSize() {
-        System.out.print("Hello Department ");
+        System.out.print("Hello Abstract.Department ");
     }
 
 
