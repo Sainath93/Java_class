@@ -10,6 +10,6 @@ public class Product {
         this.price = price;
     }
     public double getPrice(int quantity){
-        return quantity * price
+        return quantity * price;
     }
 }
