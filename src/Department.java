@@ -1,4 +1,4 @@
 public  abstract class Department {
-    abstract int getDepartmenSize();
+    abstract void getDepartmenSize();
 
 }
